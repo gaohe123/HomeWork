@@ -1,0 +1,21 @@
+/* pages/list.wxss */
+/* 轮播图的样式 */
+swiper{
+  height: 150px;
+}
+
+swiper-item {
+  height: 100%;
+  line-height: 150px;
+  text-align: center;
+}
+
+swiper-item:nth-child(1){
+  background-color: greenyellow;
+}
+swiper-item:nth-child(2){
+  background-color: red;
+}
+swiper-item:nth-child(3){
+  background-color: blue;
+}

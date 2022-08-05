@@ -1,0 +1,6 @@
+<!--pages/list.wxml-->
+<swiper indicator-dots autoplay interval="1500">
+<swiper-item>A</swiper-item>
+<swiper-item>B</swiper-item>
+<swiper-item>C</swiper-item>
+</swiper>
